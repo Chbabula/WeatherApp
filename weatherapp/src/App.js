@@ -24,6 +24,7 @@ function App() {
 
   return (
     <div className="app">
+      <h2 className='heading'>Hey Do You Want Weather Report Enter Your City Name</h2>
       <div className="search">
         <input
           value={location}
